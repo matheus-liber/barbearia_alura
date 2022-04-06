@@ -35,6 +35,21 @@ nav a:hover {
 	transition: 0.4s;
 }
 
+.banner {
+	margin: 1.5%;
+	text-align: center;
+}
+
+.principal {
+	display: inline-block;
+	padding: 20px 220px;
+	border: 2px solid #000000;
+}
+
+.titulo-centralizado {
+	font-size: 20px;
+	font-weight: bold;
+}
 
 
 footer {
